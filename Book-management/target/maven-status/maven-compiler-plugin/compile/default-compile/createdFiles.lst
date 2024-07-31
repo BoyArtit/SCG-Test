@@ -1,0 +1,5 @@
+scg\test\book\management\controller\BookController.class
+scg\test\book\management\entity\Book.class
+scg\test\book\management\service\BookService.class
+scg\test\book\management\repository\BookRepository.class
+scg\test\book\management\Application.class

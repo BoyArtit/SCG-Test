@@ -1,0 +1,3 @@
+scg\test\book\management\ApplicationTests.class
+scg\test\book\management\service\BookServiceTest.class
+scg\test\book\management\controller\BookControllerTest.class
